@@ -1,6 +1,3 @@
-# main1108.github.io
-//つちのこのホームページです
-//This is Tsuchinoko's Homepage
-//つちのこって誰。
+# Susinoko.f5.si
 すしのぽのホームページです!
 This is Susinopo's Homepage!
